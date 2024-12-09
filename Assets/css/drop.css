@@ -1,0 +1,27 @@
+body{
+    background-color: transparent;
+    /* background-color: blue; */
+}
+.footer{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    width: 100%;
+}
+.footer video{
+    height: 80px;
+    width: auto;
+}
+.moving-element p{
+    width: 100px;
+    background-color: rgb(24, 14, 37, 0.6);
+    box-shadow: 0 0 20px rgba(145, 70, 255, 0.9);
+    padding: 8px;
+    color: azure;
+    
+    border-radius: 5px;
+}
